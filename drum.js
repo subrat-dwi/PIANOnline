@@ -11,7 +11,7 @@ const drumPads = document.querySelectorAll('.drum-pad');
 const drumSounds = {
     kick: 'sounds/kick.wav',
     snare: 'sounds/snare.wav',
-    hihat: 'sounds/hi-hat.ogg',
+    hihat: 'sounds/hi-hat.wav',
     clap: 'sounds/clap.wav',
     tom: 'sounds/tom.wav',
     cymbal: 'sounds/cymbal.wav',
