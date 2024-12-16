@@ -41,7 +41,7 @@ Check out the live project here:
 | Name         | GitHub                       | LinkedIn                     | Instagram            |
 |--------------|------------------------------|------------------------------|----------------------|
 | **Subrat Dwivedi** | [GitHub Profile](https://github.com/subrat-dwi) | [LinkedIn](https://linkedin.com/in/subrat-dwivedi) | [Instagram](https://instagram.com/dw1subrat) |
-| **Shivam Singh** | [GitHub Profile](https://github.com/official-backbencher-11) | [LinkedIn](https://www.linkedin.com/in/shivam-singh-654080298/) | [Instagram](https://instagram.com) |
+| **Shivam Singh** | [GitHub Profile](https://github.com/official-backbencher-11) | [LinkedIn](https://www.linkedin.com/in/shivam-singh-654080298/) | [Instagram]([https://instagram.com](https://www.instagram.com/_official_backbencher_11/)) |
 
 ---
 
