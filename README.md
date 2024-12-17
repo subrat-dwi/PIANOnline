@@ -4,8 +4,8 @@ A responsive and interactive **Piano and Drum Kit** web application built using 
 ---
 
 ## 🎥 Demo  
-Check out the live project here:  
-**[PIANOnline](https://subrat-dwi.github.io/PIANOnline/)**  
+**Check out the live project here:  
+[PIANOnline](https://subrat-dwi.github.io/PIANOnline/)**  
 
 ---
 ## 🚀 Features  
